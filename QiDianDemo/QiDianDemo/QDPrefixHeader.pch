@@ -1,0 +1,15 @@
+//
+//  QDPrefixHeader.pch
+//  QiDianDemo
+//
+//  Created by iShareme on 15/10/13.
+//  Copyright © 2015年 iShareme. All rights reserved.
+//
+
+#ifndef QDPrefixHeader_pch
+#define QDPrefixHeader_pch
+
+#import "QDCommen.h"
+#import <UIKit/UIKit.h>
+
+#endif /* QDPrefixHeader_pch */
