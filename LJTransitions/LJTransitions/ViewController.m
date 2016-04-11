@@ -21,7 +21,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    self.title = @"转场动画";
+    self.title = @"动画";
     [self loadDataSource];
     [self tableView];
 }
@@ -71,7 +71,6 @@
     
     [self.navigationController pushViewController:typeController animated:YES];
 }
-
 
 #pragma mark - LAyoutUI
 
